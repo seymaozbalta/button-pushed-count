@@ -1,0 +1,16 @@
+.button{
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+    border-radius: 10px;
+    background-color: #7074F5;
+    border-width: 3px;
+    border-color: rgb(248, 237, 237);
+    font-weight: 100px;
+    
+}
+.text{
+    align-items: center;
+    text-align: center;
+    color: aliceblue;
+}
